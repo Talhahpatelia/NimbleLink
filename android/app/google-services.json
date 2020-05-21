@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934714860679",
+    "firebase_url": "https://covid-19-ppe-app.firebaseio.com",
+    "project_id": "covid-19-ppe-app",
+    "storage_bucket": "covid-19-ppe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934714860679:android:c0e73089de0e95e29b8422",
+        "android_client_info": {
+          "package_name": "com.nimble.link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934714860679-ov512d42s6ae4nu48e2grlo7cmk2obb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtd2VLmxITvttdIjrWPVBF0CknyFrk1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934714860679-ov512d42s6ae4nu48e2grlo7cmk2obb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934714860679-mkmim22ivnb8tancs7h8bfqkmvs0nf7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nimble.link"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
